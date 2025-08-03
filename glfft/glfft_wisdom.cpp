@@ -19,6 +19,7 @@
 #include "glfft_wisdom.hpp"
 #include "glfft_interface.hpp"
 #include "glfft.hpp"
+#include <stdexcept> 
 #include <utility>
 
 /* GLAVA NOTICE: automatic wisdom serialization support may be added at a late date */
